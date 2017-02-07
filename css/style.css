@@ -121,7 +121,6 @@ img {
 #navigation ul#secondary {
 	float: right;
 }
-
 /** Adbox **/
 #adbox {
 	width: 960px;
@@ -148,7 +147,7 @@ img {
 #adbox h1, #contents h1 {
 	background: url(../images/bg-heading.png) no-repeat center;
 	color: #ffffb0;
-	font-family: 'Arial';
+	font-family: 'SancreekRegular';
 	height: 61px;
 	line-height: 60px;
 	margin: 0 0 30px;
